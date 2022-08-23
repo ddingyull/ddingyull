@@ -1,6 +1,6 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75DA1&background=FFFFFF00&vCenter=true&width=435&lines=Web+Front-end+Developer%2C+DDing)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75DA1&background=FFFFFF00&vCenter=true&width=435&lines=Web+Front-end+Developer%2C+DDing"></a>
+</p>
 
 ### <p align="center">🤝 Nice way to meet me </p>
 <p align="center">
