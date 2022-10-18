@@ -37,9 +37,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25"/>&nbsp
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" height="25"/>&nbsp
+<br/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" height="25"/></a>&nbsp
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Figma Illustrator-F24E1E?style=flat-Figma&logoColor=black" Illustrator&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Figma Figma-F24E1E?style=flat-Figma&logoColor=black" "Figma&logoColor=white" height="25"/>
 </p>
 
 
