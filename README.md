@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75DA1&background=FFFFFF00&vCenter=true&width=435&lines=Web+Front-end+Developer%2C+DDing"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75DA1&background=FFFFFF00&vCenter=true&width=435&lines=Front-end+Developer%2C+DDing"></a>
 </p>
 
-### <p align="center">🤝 Nice way to meet me </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://velog.io/@dding_yull" target="_blank"><img src="https://img.shields.io/badge/velog.dding_yull-20C997?style=flat-square&logo=Velog%20Sponsors&logoColor=white"/></a>
   <a href="dding.yull@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dding.yull@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</p> -->
 <br/>
 
 <p align="center">
