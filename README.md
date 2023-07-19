@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logoColor=black" "Figma&logoColor=white" height="25"/>
 </p> -->
 
+<p align="center">
 ### Skills
 
 **Fronted**   
@@ -48,18 +49,14 @@
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React-native&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"/>
 <br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-FF9955?style=flat-square&logo=MobX&logoColor=black"/>
+<!-- sass, scss, gsap, style컴포넌트 추가필요 -->
 
 
 **Backend**   
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-
-**DevOps**   
-<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=Amazon+AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=Amazon+S3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_RDS-FF9900?style=flat&logo=Amazon+RDS&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=flat&logo=Amazon+AWS&logoColor=white"/>
 
 **Tools**   
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
@@ -67,5 +64,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+</p>
 
 
