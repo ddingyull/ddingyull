@@ -16,7 +16,7 @@
   I hope to develop every beautiful things. 💖✨ <br/><br/>
 </p>
 
-<!-- ### <p align="center">🛠 My Skills ⚒</p>
+### <p align="center">🛠 My Skills ⚒</p>
 #### <p align="center">Platforms & Languages</p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black" height="25"/>&nbsp
@@ -39,10 +39,11 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" height="25"/></a>&nbsp
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logoColor=black" "Figma&logoColor=white" height="25"/>
-</p> -->
+</p>
 
-<p align="center">
-### Skills
+
+<!-- sass, scss, gsap, style컴포넌트 추가필요 -->
+<!-- ### Skills
 
 **Fronted**   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
@@ -51,7 +52,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-FF9955?style=flat-square&logo=MobX&logoColor=black"/>
-<!-- sass, scss, gsap, style컴포넌트 추가필요 -->
 
 
 **Backend**   
@@ -63,7 +63,6 @@
 <img src="https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> -->
 
 
