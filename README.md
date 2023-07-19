@@ -9,12 +9,9 @@
 <br/>
 
 <p align="center">
-  <img
-  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25" />
+  <!-- <img
+  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25" /> -->
   Hi there! I'm <b>frontend developer</b> skilled in WEB 🚀<br/>
-  I have experience studying on a project at the POSCO Web Developer Studying Program<br/>
-  I'm working hard every day to become a full stack developer<br/>
-  <br/>
   I enjoy swimming and Watching a traveling programmes 🏄 👩🏻‍💻<br/>
   I hope to develop every beautiful things. 💖✨ <br/><br/>
 </p>
